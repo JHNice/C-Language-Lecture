@@ -1,13 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program\\",
+  "WorkspaceRootPath": "E:\\git\\C-Language-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FCA7A9B-71F4-4079-9490-B9BA483BEAD0}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6FCA7A9B-71F4-4079-9490-B9BA483BEAD0}|Program.vcxproj|E:\\git\\C-Language-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6FCA7A9B-71F4-4079-9490-B9BA483BEAD0}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A00660E-9ABC-4BB8-AA30-A23A24B30A2C}|..\\Class1th Compile\\Class1th Compile.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class1th Compile\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3BC358F6-0367-4D34-916D-3AD63385D9A0}|..\\Class2th Variable \u0026 Constant\\Class2th Variable \u0026 Constant.vcxproj|E:\\git\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A00660E-9ABC-4BB8-AA30-A23A24B30A2C}|..\\Class1th Compile\\Class1th Compile.vcxproj|E:\\git\\C-Language-Lecture\\Class1th Compile\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,31 +23,40 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "E:\\git\\C-Language-Lecture\\Class1th Compile\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class1th Compile\\Source.c",
+              "ToolTip": "E:\\git\\C-Language-Lecture\\Class1th Compile\\Source.c",
+              "RelativeToolTip": "..\\Class1th Compile\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-18T09:03:39.893Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class1th Compile\\Source.c",
-              "RelativeDocumentMoniker": "..\\Class1th Compile\\Source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class1th Compile\\Source.c",
-              "RelativeToolTip": "..\\Class1th Compile\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\git\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class2th Variable \u0026 Constant\\Source.c",
+              "ToolTip": "E:\\git\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c",
+              "RelativeToolTip": "..\\Class2th Variable \u0026 Constant\\Source.c",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-17T09:07:40.346Z",
+              "WhenOpened": "2026-03-18T09:03:10.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program\\Source.c",
+              "DocumentMoniker": "E:\\git\\C-Language-Lecture\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program\\Source.c*",
-              "RelativeToolTip": "Source.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\git\\C-Language-Lecture\\Program\\Source.c",
+              "RelativeToolTip": "Source.c",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAGYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:33:04.077Z",
               "EditorCaption": ""
