@@ -161,36 +161,36 @@ void main()
 
 #pragma region 사분면
 
-int x = -4;
-int y = -3;
+int x = 13;
+int y = -5;
 
 if (x > 0 && y > 0)
 {
 	printf("제 1사분면에 있습니다.");
 }
-else if (x > 0 && y > 0)
+else if (x < 0 && y > 0)
 {
 	printf("제 2사분면에 있습니다.");
 }
-else if (x > 0 && y > 0)
+else if (x < 0 && y < 0)
 {
 	printf("제 3사분면에 있습니다.");
 }
-else if (x > 0 && y > 0)
+else if (x > 0 && y < 0)
 {
 	printf("제 4사분면에 있습니다.");
 }
-else if (x > 0 && y > 0)
+else if (y == 0)
 {
 	printf("x 절편 입니다.");
 }
-else if (x > 0 && y > 0)
+else if (x == 0)
 {
 	printf("y 절편 입니다.");
 }
 else
 {
-	printf("제 1사분면에 있습니다");
+	printf("원점 입니다.");
 }
 #pragma endregion
 
