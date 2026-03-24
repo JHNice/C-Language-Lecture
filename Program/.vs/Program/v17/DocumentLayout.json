@@ -7,6 +7,12 @@
       "RelativeMoniker": "D:0:0:{6FCA7A9B-71F4-4079-9490-B9BA483BEAD0}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{77585A5E-256D-4211-B036-FDF1D9CD98AC}|..\\Class7th Preprocessor\\Class7th Preprocessor.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class7th Preprocessor\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B8984-6E94-4B69-88C9-39B955229F28}|..\\Class6th Iteration Statement\\Class6th Iteration Statement.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class6th Iteration Statement\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3BC358F6-0367-4D34-916D-3AD63385D9A0}|..\\Class2th Variable \u0026 Constant\\Class2th Variable \u0026 Constant.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -27,10 +33,23 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwE4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:33:04.077Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class7th Preprocessor\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class7th Preprocessor\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class7th Preprocessor\\Source.c",
+              "RelativeToolTip": "..\\Class7th Preprocessor\\Source.c",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T10:42:16.354Z",
               "EditorCaption": ""
             },
             {
@@ -39,7 +58,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class6th Iteration Statement\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class6th Iteration Statement\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class6th Iteration Statement\\Source.c",
+              "RelativeToolTip": "..\\Class6th Iteration Statement\\Source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-24T09:11:39.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c",
               "RelativeDocumentMoniker": "..\\Class2th Variable \u0026 Constant\\Source.c",
@@ -47,8 +79,7 @@
               "RelativeToolTip": "..\\Class2th Variable \u0026 Constant\\Source.c",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-23T10:41:21.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T10:41:21.831Z"
             }
           ]
         }
