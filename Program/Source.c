@@ -60,6 +60,74 @@ void main()
 	// // 정해지며, 한 번에 처리할 수 있는 크기는 운영 체제에 따라 크기가 결정됩니다.
 
 #pragma endregion
+#pragma region 포인터 복습
+	// 복습 a, b 만들어서 포인터로 a 가르키고 포인터로 a 값 수정 후 b 가르켜서 b 값 수정하기
 
+	// int a = 0;
+	// int b = 0;
+	// int * pointer = &a;
+	// *pointer = 10;
+	// 
+	// printf("a값 : %d\na주소 : %p\n포인터 값 : %p\n포인터 주소 : %p\n", a, &a, pointer, &pointer);
+	// 
+	// pointer = &b;
+	// *pointer = 20;
+	// printf("b값 : %d\nb주소 : %p\n포인터 값 : %p\n포인터 주소 : %p\n", b, &b, pointer, &pointer);
+#pragma endregion
+#pragma region 범용 포인터
+	// 자료형이 정해지지 않은 상태로 모든 자료형을
+	// 저장할 수 있는 포인터입니다.
+
+	// char rank = 'S';
+	// int level = 1;
+	// float attack = 12.5f;
+	// void * pointer = NULL;
+
+	// printf("rank : %p\npointer : %p\n", &rank, pointer);
+
+	// 범용 포인터는 메모리 주소에 접근해서 값을
+	// 변경할 수 없습니다.
+
+	// 범용 포인터로 변수의 메모리에 접근하려면 범용 포인터가
+	// 가리키는 변수의 자료형으로 변환해주어야 합니다.
+
+	// pointer = &rank;
+	// *(char*)pointer = 'A';
+	// printf("rank : %c\n", rank);
+	// 
+	// pointer = &level;
+	// *(int*)pointer = 5;
+	// printf("level : %d\n", level);
+	// 
+	// pointer = &attack;
+	// *(float*)pointer = 17.5f;
+	// printf("attack : %f\n", attack);
+
+#pragma endregion
+#pragma region 상수 지시 포인터
+// 포인터가 가리키는 주소에 저장되어 있는 값을 변경할 수
+// 없도록 지정되어 있는 포인터입니다.
+
+// int y = 10;
+// int z = 20;
+// const int* address = NULL;
+// address = &y;
+// printf("y주소 : %p\naddress포인터 : %p\n", &y, address);
+// // *address = z;
+// 
+// address = &z;
+// printf("z주소 : %p\naddress포인터 : %p\n", &z, address);
+#pragma endregion
+#pragma region 포인터 상수
+// 포인터 변수가 가리키고 있는 주소 값을 변경할 수
+// 없는 포인터입니다.
+
+// int y = 0;
+// int* const x = &y;
+// // x = &y;
+// *x = 10;
+// printf("x포인터가 가리키는 값 : %d\nx포인터 : %p\ny주소 : %p\ny값 : %d\n",*x,x,&y,y);
+
+#pragma endregion
 
 }

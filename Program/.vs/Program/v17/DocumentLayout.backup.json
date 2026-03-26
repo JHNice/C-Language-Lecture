@@ -33,7 +33,7 @@
               "RelativeDocumentMoniker": "Source.c",
               "ToolTip": "E:\\git\\C-Language-Lecture\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-16T09:33:04.077Z",
               "IsPinned": true,
@@ -53,7 +53,8 @@
               "RelativeToolTip": "..\\Class1th Compile\\Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-25T07:20:37.074Z"
+              "WhenOpened": "2026-03-25T07:20:37.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,7 +66,8 @@
               "RelativeToolTip": "..\\Class2th Variable \u0026 Constant\\Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-25T07:19:27.999Z"
+              "WhenOpened": "2026-03-25T07:19:27.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
