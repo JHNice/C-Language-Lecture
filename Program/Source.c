@@ -2,6 +2,7 @@
 
 void main()
 {
+<<<<<<< Updated upstream
 #pragma region ì£¼ì†Œ ì—°ì‚°ì
 	// ë³€ìˆ˜ì˜ ì£¼ì†Œ ê°’ì„ ë°˜í™˜í•˜ëŠ” ì—°ì‚°ìì…ë‹ˆë‹¤.
 	
@@ -58,8 +59,158 @@ void main()
 	// 
 	// // í¬ì¸í„° ë³€ìˆ˜ì˜ í¬ê¸°ëŠ” ì¤‘ì•™ ì²˜ë¦¬ ì¥ì¹˜ê°€ í•œ ë²ˆì— ì²˜ë¦¬í•˜ ìˆ˜ ìˆëŠ” í¬ê¸°ë¡œ
 	// // ì •í•´ì§€ë©°, í•œ ë²ˆì— ì²˜ë¦¬í•  ìˆ˜ ìˆëŠ” í¬ê¸°ëŠ” ìš´ì˜ ì²´ì œì— ë”°ë¼ í¬ê¸°ê°€ ê²°ì •ë©ë‹ˆë‹¤.
+=======
+#pragma region ¹ü¿ë Æ÷ÀÎÅÍ
+	//// ÀÚ·áÇüÀÌ Á¤ÇØÁöÁö ¾ÊÀº »óÅÂ·Î ¸ğµç ÀÚ·áÇüÀ»
+	//// ÀúÀåÇÒ ¼ö ÀÖ´Â Æ÷ÀÎÅÍÀÔ´Ï´Ù.
+	//
+	//char rank = 'S';
+	//int level = 1;
+	//float attack = 15.5f;
+	//
+	//void * reference = NULL;
+	//
+	//reference = &rank;
+	//
+	//// ¹ü¿ë Æ÷ÀÎÅÍ´Â ¸Ş¸ğ¸® ÁÖ¼Ò¿¡ Á¢±ÙÇØ¼­ °ªÀ»
+	//// º¯°æÇÒ ¼ö ¾ø½À´Ï´Ù.
+	//
+	//*(char *)reference = 'A';
+	//
+	//printf("rankÀÇ º¯¼ö °ª : %c\n", rank);
+	//printf("referenceÀÇ °ª : %p\n", reference);
+	//
+	//reference = &level;
+	//
+	//*(int*)reference = 5;
+	//
+	//printf("levelÀÇ º¯¼ö °ª : %d\n", level);
+	//printf("referenceÀÇ °ª : %p\n", reference);
+	//
+	//reference = &attack;
+	//
+	//*(float*)reference = 17.5f;
+	//
+	//printf("attackÀÇ º¯¼ö °ª : %f\n", attack);
+	//printf("referenceÀÇ °ª : %p\n", reference);
+	//
+	//// ¹ü¿ë Æ÷ÀÎÅÍ·Î º¯¼öÀÇ ¸Ş¸ğ¸®¿¡ Á¢±ÙÇÏ¿©¸é ¹ü¿ë Æ÷ÀÎÅÍ°¡
+	//// °¡¸®Å°´Â º¯¼öÀÇ ÀÚ·áÇüÀ¸·Î º¯È¯ÇØ¾ß ÇÕ´Ï´Ù.
+
+	
+#pragma endregion
+
+#pragma region »ó¼ö Áö½Ã Æ÷ÀÎÅÍ
+	//// Æ÷ÀÎÅÍ°¡ °¡¸®Å°´Â ÁÖ¼Ò¿¡ ÀúÀåµÇ¾î ÀÖ´Â °ªÀ» º¯°æÇÒ ¼ö
+	//// ¾øµµ·Ï ÁöÁ¤µÇ¾î ÀÖ´Â Æ÷ÀÎÅÍ ÀÔ´Ï´Ù.
+	//
+	//int y = 10;
+	//int z = 20;
+	//const int * address = &y;
+    //
+	//// *address = 99;
+	//
+	//
+	//printf("yÀÇ ÁÖ¼Ò °ª : %p\n", y);
+	//printf("addressÀÇ º¯¼ö °ª : %p\n", address);
+	//
+	//address = &z;
+	//
+	//printf("zÀÇ ÁÖ¼Ò °ª : %p\n", z);
+	//printf("addressÀÇ º¯¼ö °ª : %p\n", address);
 
 #pragma endregion
 
+#pragma region Æ÷ÀÎÅÍ »ó¼ö
+	// Æ÷ÀÎÅÍ º¯¼ö°¡ °¡¸®Å°°í ÀÖ´Â ÁÖ¼Ò °ªÀ» º¯°æÇÒ ¼ö 
+	// ¾ø´Â Æ÷ÀÎÅÍÀÔ´Ï´Ù
+
+	int dex = 5;
+	int wisdom = 1;
+
+	int* const fixed = &dex;
+
+	*fixed = 10;
+
+	//fixed = wisdom;
+	printf("%d\n", *fixed);
+	printf("%d\n", dex);
+
+
+
+
+
+>>>>>>> Stashed changes
+
+#pragma endregion
+#pragma region í¬ì¸í„° ë³µìŠµ
+	// ë³µìŠµ a, b ë§Œë“¤ì–´ì„œ í¬ì¸í„°ë¡œ a ê°€ë¥´í‚¤ê³  í¬ì¸í„°ë¡œ a ê°’ ìˆ˜ì • í›„ b ê°€ë¥´ì¼œì„œ b ê°’ ìˆ˜ì •í•˜ê¸°
+
+	// int a = 0;
+	// int b = 0;
+	// int * pointer = &a;
+	// *pointer = 10;
+	// 
+	// printf("aê°’ : %d\naì£¼ì†Œ : %p\ní¬ì¸í„° ê°’ : %p\ní¬ì¸í„° ì£¼ì†Œ : %p\n", a, &a, pointer, &pointer);
+	// 
+	// pointer = &b;
+	// *pointer = 20;
+	// printf("bê°’ : %d\nbì£¼ì†Œ : %p\ní¬ì¸í„° ê°’ : %p\ní¬ì¸í„° ì£¼ì†Œ : %p\n", b, &b, pointer, &pointer);
+#pragma endregion
+#pragma region ë²”ìš© í¬ì¸í„°
+	// ìë£Œí˜•ì´ ì •í•´ì§€ì§€ ì•Šì€ ìƒíƒœë¡œ ëª¨ë“  ìë£Œí˜•ì„
+	// ì €ì¥í•  ìˆ˜ ìˆëŠ” í¬ì¸í„°ì…ë‹ˆë‹¤.
+
+	// char rank = 'S';
+	// int level = 1;
+	// float attack = 12.5f;
+	// void * pointer = NULL;
+
+	// printf("rank : %p\npointer : %p\n", &rank, pointer);
+
+	// ë²”ìš© í¬ì¸í„°ëŠ” ë©”ëª¨ë¦¬ ì£¼ì†Œì— ì ‘ê·¼í•´ì„œ ê°’ì„
+	// ë³€ê²½í•  ìˆ˜ ì—†ìŠµë‹ˆë‹¤.
+
+	// ë²”ìš© í¬ì¸í„°ë¡œ ë³€ìˆ˜ì˜ ë©”ëª¨ë¦¬ì— ì ‘ê·¼í•˜ë ¤ë©´ ë²”ìš© í¬ì¸í„°ê°€
+	// ê°€ë¦¬í‚¤ëŠ” ë³€ìˆ˜ì˜ ìë£Œí˜•ìœ¼ë¡œ ë³€í™˜í•´ì£¼ì–´ì•¼ í•©ë‹ˆë‹¤.
+
+	// pointer = &rank;
+	// *(char*)pointer = 'A';
+	// printf("rank : %c\n", rank);
+	// 
+	// pointer = &level;
+	// *(int*)pointer = 5;
+	// printf("level : %d\n", level);
+	// 
+	// pointer = &attack;
+	// *(float*)pointer = 17.5f;
+	// printf("attack : %f\n", attack);
+
+#pragma endregion
+#pragma region ìƒìˆ˜ ì§€ì‹œ í¬ì¸í„°
+// í¬ì¸í„°ê°€ ê°€ë¦¬í‚¤ëŠ” ì£¼ì†Œì— ì €ì¥ë˜ì–´ ìˆëŠ” ê°’ì„ ë³€ê²½í•  ìˆ˜
+// ì—†ë„ë¡ ì§€ì •ë˜ì–´ ìˆëŠ” í¬ì¸í„°ì…ë‹ˆë‹¤.
+
+// int y = 10;
+// int z = 20;
+// const int* address = NULL;
+// address = &y;
+// printf("yì£¼ì†Œ : %p\naddressí¬ì¸í„° : %p\n", &y, address);
+// // *address = z;
+// 
+// address = &z;
+// printf("zì£¼ì†Œ : %p\naddressí¬ì¸í„° : %p\n", &z, address);
+#pragma endregion
+#pragma region í¬ì¸í„° ìƒìˆ˜
+// í¬ì¸í„° ë³€ìˆ˜ê°€ ê°€ë¦¬í‚¤ê³  ìˆëŠ” ì£¼ì†Œ ê°’ì„ ë³€ê²½í•  ìˆ˜
+// ì—†ëŠ” í¬ì¸í„°ì…ë‹ˆë‹¤.
+
+// int y = 0;
+// int* const x = &y;
+// // x = &y;
+// *x = 10;
+// printf("xí¬ì¸í„°ê°€ ê°€ë¦¬í‚¤ëŠ” ê°’ : %d\nxí¬ì¸í„° : %p\nyì£¼ì†Œ : %p\nyê°’ : %d\n",*x,x,&y,y);
+
+#pragma endregion
 
 }

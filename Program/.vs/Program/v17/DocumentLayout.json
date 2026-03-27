@@ -1,19 +1,19 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\git\\C-Language-Lecture\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FCA7A9B-71F4-4079-9490-B9BA483BEAD0}|Program.vcxproj|E:\\git\\C-Language-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6FCA7A9B-71F4-4079-9490-B9BA483BEAD0}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6FCA7A9B-71F4-4079-9490-B9BA483BEAD0}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77585A5E-256D-4211-B036-FDF1D9CD98AC}|..\\Class7th Preprocessor\\Class7th Preprocessor.vcxproj|E:\\git\\C-Language-Lecture\\Class7th Preprocessor\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{77585A5E-256D-4211-B036-FDF1D9CD98AC}|..\\Class7th Preprocessor\\Class7th Preprocessor.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class7th Preprocessor\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A00660E-9ABC-4BB8-AA30-A23A24B30A2C}|..\\Class1th Compile\\Class1th Compile.vcxproj|E:\\git\\C-Language-Lecture\\Class1th Compile\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7A00660E-9ABC-4BB8-AA30-A23A24B30A2C}|..\\Class1th Compile\\Class1th Compile.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class1th Compile\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BC358F6-0367-4D34-916D-3AD63385D9A0}|..\\Class2th Variable \u0026 Constant\\Class2th Variable \u0026 Constant.vcxproj|E:\\git\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3BC358F6-0367-4D34-916D-3AD63385D9A0}|..\\Class2th Variable \u0026 Constant\\Class2th Variable \u0026 Constant.vcxproj|C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,62 +23,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Source.c",
-              "DocumentMoniker": "E:\\git\\C-Language-Lecture\\Program\\Source.c",
-              "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "E:\\git\\C-Language-Lecture\\Program\\Source.c",
-              "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-16T09:33:04.077Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program\\Source.c",
+              "RelativeDocumentMoniker": "Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Program\\Source.c*",
+              "RelativeToolTip": "Source.c*",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-27T09:00:46.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Source.c",
-              "DocumentMoniker": "E:\\git\\C-Language-Lecture\\Class1th Compile\\Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class1th Compile\\Source.c",
               "RelativeDocumentMoniker": "..\\Class1th Compile\\Source.c",
-              "ToolTip": "E:\\git\\C-Language-Lecture\\Class1th Compile\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class1th Compile\\Source.c",
               "RelativeToolTip": "..\\Class1th Compile\\Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-25T07:20:37.074Z"
+              "WhenOpened": "2026-03-27T09:00:49.294Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Source.c",
-              "DocumentMoniker": "E:\\git\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c",
               "RelativeDocumentMoniker": "..\\Class2th Variable \u0026 Constant\\Source.c",
-              "ToolTip": "E:\\git\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class2th Variable \u0026 Constant\\Source.c",
               "RelativeToolTip": "..\\Class2th Variable \u0026 Constant\\Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-25T07:19:27.999Z"
+              "WhenOpened": "2026-03-27T09:00:49.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.c",
-              "DocumentMoniker": "E:\\git\\C-Language-Lecture\\Class7th Preprocessor\\Source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class7th Preprocessor\\Source.c",
               "RelativeDocumentMoniker": "..\\Class7th Preprocessor\\Source.c",
-              "ToolTip": "E:\\git\\C-Language-Lecture\\Class7th Preprocessor\\Source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\C-Language-Lecture\\Class7th Preprocessor\\Source.c",
               "RelativeToolTip": "..\\Class7th Preprocessor\\Source.c",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAE8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-03-25T07:09:31.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-27T09:00:49.297Z"
             }
           ]
         }
